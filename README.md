@@ -134,8 +134,3 @@ Contact
 Maintainer: Redwanul Karim
 Email: redwanul.karim@fau.de
 
-If you want, I can:
-- generate a `requirements.txt` for each assignment,
-- add a top-level `Makefile` with common tasks (build, train, evaluate), or
-- add a LICENSE file (e.g., MIT) — tell me which option you prefer.
-

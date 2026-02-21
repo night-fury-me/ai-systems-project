@@ -1,0 +1,15 @@
+Training Data Category ---- Server Test Data Categories
+-----------------------------------------------------------------------
+q-fin 		--- q-fin.PR
+-----------------------------------------------------------------------
+math 		--- math.CO, math.NT, math.PR, 
+-----------------------------------------------------------------------
+cond-mat 	--- cond-mat, cond-mat.mes-hall, cond-mat.stat-mech, cond-mat.mtrl-sci, cond-mat.supr-con, cond-mat.mtrl-sci, cond-mat.soft
+-----------------------------------------------------------------------
+astro-ph 	--- astro-ph, astro-ph.SR, astro-ph.GA, astro-ph.IM
+-----------------------------------------------------------------------
+q-bio 		--- q-bio.PE
+-----------------------------------------------------------------------
+physics 	--- physics.ao-ph, physics.flu-dyn, physics.atom-ph, 
+-----------------------------------------------------------------------
+

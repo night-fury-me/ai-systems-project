@@ -117,17 +117,6 @@ pip install -r requirements.txt  # create one per project if needed
 
 - For assignment-2.5, if you plan to run training locally, install `torch`, `tokenizers`, `mlflow`, `tqdm`, `scikit-learn` and other dependencies listed in the script headers.
 
-What I included in this README
-------------------------------
-- High-level overview of each assignment
-- Key files and dataset pointers
-- Short run instructions and Docker commands for assignment 2.5
-
-Missing items / suggestions
----------------------------
-- No LICENSE file detected; add one if you plan to publish or share externally.
-- A unified `requirements.txt` at repo root would help replicate environments quickly. Each assignment can also include its own requirements file.
-- Small convenience scripts (Makefile or top-level scripts) to build and run Docker commands would simplify reproducibility.
 
 Contact
 -------
